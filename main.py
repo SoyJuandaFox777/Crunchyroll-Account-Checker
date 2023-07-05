@@ -13,7 +13,7 @@ blue = Fore.BLUE
 white = Fore.WHITE
 webhookurl = ""
 proxyl = []
-with open("combos.txt", 'r') as combos:
+with open("/storage/emulated/0/Checkers/CrunchyrollAccountChecker/recursos/accounts.txt", 'r') as combos:
     combos = combos.read().splitlines()
 
 
